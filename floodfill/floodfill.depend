@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1474796180 source:g:\computer_graphics\practical\floodfill\flood.c
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+
+1266078014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

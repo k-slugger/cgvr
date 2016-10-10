@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1473494397 source:g:\computer_graphics\practical\exp5\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1262791248 c:\program files (x86)\codeblocks-ep\sdk\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1474222870 source:g:\computer_graphics\practical\exp5\house3d.c
+	<stdio.h>
+	<GL/glut.h>
+
